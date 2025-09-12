@@ -182,10 +182,3 @@ bookbay-microservices/
 - Restart Redis container: `docker-compose restart redis`
 - Check Redis logs: `docker logs bookbay_redis`
 
-## 🚀 Next Steps
-1. Follow the file creation steps below
-2. Customize the business logic
-3. Add more features like pagination, sorting
-4. Implement proper logging with Winston
-5. Add unit tests with Jest
-6. Set up CI/CD pipeline
